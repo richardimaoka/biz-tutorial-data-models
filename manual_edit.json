@@ -1,5 +1,11 @@
 {
   "__typename": "ManualEdit",
-  "filesChanged": ["refer to other json objects..."],
-  "gitCommitHash": ""
+  "filesChanged": [
+    {
+      "gitCommitHash": "bs5409938",
+      "diff": "..."
+    },
+    "refer to other json objects..."
+  ],
+  "gitCommitHash": "aq43927as"
 }
