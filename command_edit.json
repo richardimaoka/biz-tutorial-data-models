@@ -1,0 +1,4 @@
+{
+  "command": "git apply ...",
+  "filesChanged": ["refer to other json objects..."]
+}
