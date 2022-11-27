@@ -3,7 +3,8 @@
   "filesChanged": [
     {
       "gitCommitHash": "bs5409938",
-      "diff": "..."
+      "diff": "...",
+      "gitFilePath": ""
     },
     "refer to other json objects..."
   ],
